@@ -21,5 +21,9 @@ public class ClientesController {
     public void delete (Clientes c) {
         
     }
+
+    public void insert(View.Clientes c) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }

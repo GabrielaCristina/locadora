@@ -6,6 +6,7 @@
 package Controller;
 
 import Model.Carro;
+import View.CadCarro;
 
 /**
  *
@@ -21,5 +22,9 @@ public class CarroController {
     }
     public void delete (Carro c) {
         
+    }
+
+    public void insert(CadCarro c) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
